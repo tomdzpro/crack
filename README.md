@@ -1,1 +1,1 @@
-Hoc Git aaaa oke
+Hoc Git aaaa
